@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+p{
+  line-height: 2;
+}
+
+h1 {
+  font-size: 562.5% !important;
+  color: #66BFBF !important;
+  margin: 50px auto 0 auto !important;
+  font-family: 'Sacramento', cursive!important;
+  font-weight: bold !important;
+}
+h2{
+  font-family: 'Montserrat', sans-serif !important;
+  color: #66BFBF !important;
+  font-weight: normal !important;
+  font-size: 2.5rem!important;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+.hello-description{
+  width: 30%;
+  margin: auto;
+}
+.skill-description{
+  width: 50%;
+  margin: auto;
+}
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: auto;
+}
+a{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+.top-container {
+  background-color: #bbf1fa;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+margin: 100px 0;
+}
+.bottom-container{
+  background-color: #51c2d5;
+  padding: 50px 0 20px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.code-img{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+
+}
+.skill-img{
+  height: 150px;
+  width:200px;
+  float: right;
+  margin-right: 30px;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+margin: 100px auto;}
+.footer-link{
+  font-color: white;
+}
+
+
+
+
+
+.CONTACT{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+
+/* adventures */
+#adventures{
+  background-color: #bbf1fa;
+  padding-bottom: 10%;
+  padding-top: 20px;
+}
+/* .carousel-item{
+width:640px;
+height:360px;
+} */
+
+#features{
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+position: relative;
+  background-color: #fff;
+  /* z-index: 1; */
+
+}
+.fa-lightbulb:hover {
+    color:#66BFBF;
+}
+.fa-bullseye:hover {
+    color:#66BFBF;
+}
+.fa-check-circle:hover {
+    color:#66BFBF;
+}
+.fa-lightbulb {
+  color:#bbf1fa;
+}
+.fa-check-circle{
+  color:#bbf1fa;
+}
+.fa-bullseye {
+  color:#bbf1fa;
+}
+.features-h2{
+  padding-bottom: 100px;
+  font-weight: bold;
+}
+.footer-link{
+color: #fff;
+}
+#work{
+  background-color: #bbf1fa;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10%;
+  padding-top: 20px;
+}
+/* second card deck */
+hr{
+  visibility: hidden;
+}
+/* #work{
+  padding-bottom: 10%;
+  padding-top: 20px;
+} */
+#Modelling{
+  padding-bottom: 5%;
+}
+#project{
+  padding-bottom: 5%;
+}
+/* .carousel {
+  width:1440px;
+  height:1080px;
+} */
